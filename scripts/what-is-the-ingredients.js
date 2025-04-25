@@ -323,15 +323,15 @@ function loadQuestion() {
   const correctIndex = Math.floor(Math.random() * menu.length);
   const correctItem = menu[correctIndex];
   questionEl.textContent = `What are the ingredients of: ${correctItem.Name}?`;
-
   const answerOptions = [correctItem.Ingredients];
+  const sameCategoryItems = menu.filter(item => item.Category === correctItem.Category);
+
   while (answerOptions.length < 5) {
-    const random = menu[Math.floor(Math.random() * menu.length)];
+    const random = sameCategoryItems[Math.floor(Math.random() * sameCategoryItems.length)];
     if (!answerOptions.includes(random.Ingredients)) {
       answerOptions.push(random.Ingredients);
     }
   }
-
   shuffleArray(answerOptions);
 
   answerOptions.forEach((option) => {
@@ -340,11 +340,12 @@ function loadQuestion() {
     li.addEventListener("click", () => {
       if (option === correctItem.Ingredients) {
         li.classList.add("correct");
+        setTimeout(loadQuestion, 1000);
       } else {
         li.classList.add("incorrect");
       }
 
-      setTimeout(loadQuestion, 2000);
+
     });
     answersEl.appendChild(li);
   });

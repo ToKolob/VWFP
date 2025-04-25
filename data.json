@@ -74,7 +74,7 @@
   {
     "Category": "Pizza",
     "Name": "Hot Puck",
-    "Ingredients": "Goat's cheese, wood roasted red onion, walnut, honey, mozzarella, Nduja, rocket, fresh chilli's, tomato sauce",
+    "Ingredients": "Goat's cheese, wood roasted red onion, mozzarella, Nduja, rocket, fresh chilli's, tomato sauce, and after the oven  walnut, honey",
     "Price": "€21.05"
   },
   {
@@ -86,7 +86,7 @@
   {
     "Category": "Pizza",
     "Name": "Quattro Formaggio",
-    "Ingredients": "Extra virgin olive oil and fresh garlic brushed base, mozzarella, gorgonzola, taleggio, parmesan",
+    "Ingredients": "Extra virgin olive oil and fresh garlic brushed base, mozzarella, gorgonzola, taleggio, and after the oven parmesan",
     "Price": "€21.05"
   },
   {
@@ -103,20 +103,20 @@
   },
   {
     "Category": "Pizza",
-    "Name": "Bianca",
-    "Ingredients": "Extra virgin olive oil and fresh garlic brushed base, mozzarella, prosciutto, cherry tomato, shaved parmesan, rocket",
+    "Name": "Bianco",
+    "Ingredients": "Extra virgin olive oil and fresh garlic brushed base, mozzarella,  cherry tomato, and after the oven prosciutto,shaved parmesan,rocket",
     "Price": "€21.05"
   },
   {
     "Category": "Pizza",
     "Name": "Puck Fair",
-    "Ingredients": "Goat's cheese, wood roasted red onion, walnut, honey, mozzarella, tomato sauce",
+    "Ingredients": "Goat's cheese, wood roasted red onion, mozzarella, tomato sauce, and after the oven walnut, honey",
     "Price": "€21.05"
   },
   {
     "Category": "Pizza",
     "Name": "Vegan Pizza",
-    "Ingredients": "Marinated artichoke, baby spinach, sun dried tomato, walnuts, wood roasted aubergines & red onion, tomato sauce",
+    "Ingredients": "Marinated artichoke, baby spinach, sun dried tomato, wood roasted aubergines & red onion, tomato sauce, and after the oven walnuts",
     "Price": "€21.05"
   },
   {
@@ -128,7 +128,7 @@
   {
     "Category": "Pizza",
     "Name": "Picante",
-    "Ingredients": "Italian salami, fresh chilli, honey, smoked scamorza, mozzarella, tomato sauce",
+    "Ingredients": "Italian salami, fresh chilli, smoked scamorza, mozzarella, tomato sauce, and after the oven honey",
     "Price": "€21.05"
   },
   {
@@ -146,13 +146,13 @@
   {
     "Category": "Pizza",
     "Name": "Pollo",
-    "Ingredients": "Smoked chicken, goat's cheese, sun dried tomato, mozzarella, tomato sauce and a drizzle of pesto",
+    "Ingredients": "Smoked chicken, goat's cheese, sun dried tomato, mozzarella, tomato sauce and after the oven a drizzle of pesto, basil",
     "Price": "€21.05"
   },
   {
     "Category": "Pizza",
     "Name": "Isabella",
-    "Ingredients": "Prosciutto, wood roasted aubergine, mushroom, mozzarella, rocket, tomato sauce, parmesan",
+    "Ingredients": "Wood roasted aubergine, mushroom, mozzarella, tomato sauce, and after the oven parmesan, Prosciutto, rocket ",
     "Price": "€21.05"
   },
   {
@@ -200,7 +200,7 @@
   {
     "Category": "Pizza",
     "Name": "Honey Bee",
-    "Ingredients": "Nduja, fresh chili, honey, mozzarella, tomato sauce, basil",
+    "Ingredients": "Nduja, fresh chili, mozzarella, tomato sauce, and after the oven honey, basil",
     "Price": "€20.00"
   },
   {
@@ -222,21 +222,21 @@
     "Price": "€21.05"
   },
   {
-    "Category": "Regular Sides",
-    "Name": "Garlic Pizza Bread",
+    "Category": "Loaded Sides",
+    "Name": "Garlic Pizza Bread - Regular Sides",
     "Ingredients": "Flatbread with olive oil, fresh garlic, mozzarella, oregano",
     "Price": "€6.50"
   },
   {
-    "Category": "Regular Sides",
-    "Name": "House Fries",
-    "Ingredients": "Crispy skin-on chips with garlic dip",
+    "Category": "Loaded Sides",
+    "Name": "House Fries - Regular Sides",
+    "Ingredients": "Crispy skin-on chips served with garlic dip",
     "Price": "€4.85"
   },
   {
     "Category": "Loaded Sides",
     "Name": "Vincenzo's Focaccia",
-    "Ingredients": "Flatbread, olive oil, garlic, black olives, goat's cheese, red onion, sun dried tomato, pesto",
+    "Ingredients": "Flatbread, olive oil, garlic, black olives, goat's cheese, red onion, sun dried tomato, and after the oven pesto, basil",
     "Price": "€8.65"
   },
   {
@@ -278,19 +278,19 @@
   {
     "Category": "Side Chicks",
     "Name": "Sticky BBQ Buffalo Wings",
-    "Ingredients": "8 chicken wings with garlic dip",
+    "Ingredients": "8 chicken wings served with garlic dip",
     "Price": "€8.65"
   },
   {
     "Category": "Side Chicks",
     "Name": "Hot N Spicy Buffalo Wings",
-    "Ingredients": "9 chicken wings with blue cheese dip",
+    "Ingredients": "9 chicken wings served with blue cheese dip",
     "Price": "€8.65"
   },
   {
     "Category": "Side Chicks",
     "Name": "Crispy Goujons",
-    "Ingredients": "6 chicken fillets with garlic dip",
+    "Ingredients": "6 chicken fillets served with garlic dip",
     "Price": "€8.65"
   },
   {
